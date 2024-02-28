@@ -1,1 +1,1 @@
-##### Prometheus, Grafana and Alertmanager usage with Nodeexporter and ##### Pushgateway 
+##### Prometheus, Grafana and Alertmanager usage with Nodeexporter and  Pushgateway 
